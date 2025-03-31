@@ -1,0 +1,16 @@
+C:\Users\LABORATORIO\Desktop\DerekLopezVB13\CRUD_16_VB_31Marzo\CRUD_16_VB_31Marzo\bin\Debug\net8.0-windows\CRUD_16_VB_31Marzo.exe
+C:\Users\LABORATORIO\Desktop\DerekLopezVB13\CRUD_16_VB_31Marzo\CRUD_16_VB_31Marzo\bin\Debug\net8.0-windows\CRUD_16_VB_31Marzo.deps.json
+C:\Users\LABORATORIO\Desktop\DerekLopezVB13\CRUD_16_VB_31Marzo\CRUD_16_VB_31Marzo\bin\Debug\net8.0-windows\CRUD_16_VB_31Marzo.runtimeconfig.json
+C:\Users\LABORATORIO\Desktop\DerekLopezVB13\CRUD_16_VB_31Marzo\CRUD_16_VB_31Marzo\bin\Debug\net8.0-windows\CRUD_16_VB_31Marzo.dll
+C:\Users\LABORATORIO\Desktop\DerekLopezVB13\CRUD_16_VB_31Marzo\CRUD_16_VB_31Marzo\bin\Debug\net8.0-windows\CRUD_16_VB_31Marzo.pdb
+C:\Users\LABORATORIO\Desktop\DerekLopezVB13\CRUD_16_VB_31Marzo\CRUD_16_VB_31Marzo\obj\Debug\net8.0-windows\CRUD_16_VB_31Marzo.Form1.resources
+C:\Users\LABORATORIO\Desktop\DerekLopezVB13\CRUD_16_VB_31Marzo\CRUD_16_VB_31Marzo\obj\Debug\net8.0-windows\CRUD_16_VB_31Marzo.csproj.GenerateResource.cache
+C:\Users\LABORATORIO\Desktop\DerekLopezVB13\CRUD_16_VB_31Marzo\CRUD_16_VB_31Marzo\obj\Debug\net8.0-windows\CRUD_16_VB_31Marzo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABORATORIO\Desktop\DerekLopezVB13\CRUD_16_VB_31Marzo\CRUD_16_VB_31Marzo\obj\Debug\net8.0-windows\CRUD_16_VB_31Marzo.AssemblyInfoInputs.cache
+C:\Users\LABORATORIO\Desktop\DerekLopezVB13\CRUD_16_VB_31Marzo\CRUD_16_VB_31Marzo\obj\Debug\net8.0-windows\CRUD_16_VB_31Marzo.AssemblyInfo.cs
+C:\Users\LABORATORIO\Desktop\DerekLopezVB13\CRUD_16_VB_31Marzo\CRUD_16_VB_31Marzo\obj\Debug\net8.0-windows\CRUD_16_VB_31Marzo.csproj.CoreCompileInputs.cache
+C:\Users\LABORATORIO\Desktop\DerekLopezVB13\CRUD_16_VB_31Marzo\CRUD_16_VB_31Marzo\obj\Debug\net8.0-windows\CRUD_16_VB_31Marzo.dll
+C:\Users\LABORATORIO\Desktop\DerekLopezVB13\CRUD_16_VB_31Marzo\CRUD_16_VB_31Marzo\obj\Debug\net8.0-windows\refint\CRUD_16_VB_31Marzo.dll
+C:\Users\LABORATORIO\Desktop\DerekLopezVB13\CRUD_16_VB_31Marzo\CRUD_16_VB_31Marzo\obj\Debug\net8.0-windows\CRUD_16_VB_31Marzo.pdb
+C:\Users\LABORATORIO\Desktop\DerekLopezVB13\CRUD_16_VB_31Marzo\CRUD_16_VB_31Marzo\obj\Debug\net8.0-windows\CRUD_16_VB_31Marzo.genruntimeconfig.cache
+C:\Users\LABORATORIO\Desktop\DerekLopezVB13\CRUD_16_VB_31Marzo\CRUD_16_VB_31Marzo\obj\Debug\net8.0-windows\ref\CRUD_16_VB_31Marzo.dll
